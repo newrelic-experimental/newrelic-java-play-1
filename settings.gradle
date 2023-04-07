@@ -1,1 +1,4 @@
 rootProject.name = 'java-instrumentation-template'
+include 'play-1.4'
+include 'play-1.4-ws'
+include 'play-1.5'
